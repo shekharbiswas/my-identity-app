@@ -19,6 +19,9 @@ Main parts used:
 - @expo/vector-icons for the icons
 - react-native-web to run it in the browser
 
+
+![alt text](image-1.png)
+
 ## What the code does
 
 1. The app starts in the expired state.
