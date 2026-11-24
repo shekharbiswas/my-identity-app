@@ -1,9 +1,9 @@
 # My Identity
 
 A small app that shows a QR code as your identity.
-I built it with React Native, Expo and TypeScript.
+we built it with React Native, Expo and TypeScript.
 
-The code expires after 60 seconds. Tap refresh to get a new one.
+The code expires after 60 seconds. one can tap refresh to get a new one.
 
 ![alt text](image.png)
 
