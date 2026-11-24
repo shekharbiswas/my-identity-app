@@ -24,6 +24,7 @@ const BOTTOM_TABS: { key: BottomTab; label: string; icon: keyof typeof Ionicons.
   { key: 'account', label: 'Account', icon: 'person-outline' },
 ];
 
+
 function makeSession() {
   const id = Math.floor(1000 + Math.random() * 9000);
   return { sessionId: `SID-SDN${id}`, token: `${Date.now()}-${id}` };
