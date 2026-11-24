@@ -59,7 +59,3 @@ If it does not connect, try this.
 npx expo start --tunnel
 ```
 
-## Still to do
-
-Screenshot protection is only a label right now.
-The scan tab and bottom tabs also need real screens.
